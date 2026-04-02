@@ -1,0 +1,3 @@
+week 1: begin research and compile information on the transport layer 
+week 2: begin draft of the presentation 
+week 3: begin research on trouble shooting 
